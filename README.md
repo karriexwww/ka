@@ -1,3 +1,2 @@
 # ka
-e
-x
+random shiz
