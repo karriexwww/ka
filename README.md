@@ -1,2 +1,2 @@
 # ka
-random shiz
+random 
